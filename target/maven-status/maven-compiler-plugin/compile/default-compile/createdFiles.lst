@@ -1,0 +1,10 @@
+info/miki/maya/customerview/facade/MicroMarketFacade.class
+info/miki/maya/customerview/entities/DiscountCode_.class
+info/miki/maya/customerview/entities/DiscountCode.class
+info/miki/maya/customerview/facade/DiscountCodeFacade.class
+info/miki/maya/customerview/entities/Customer_.class
+info/miki/maya/customerview/entities/MicroMarket.class
+info/miki/maya/customerview/entities/MicroMarket_.class
+info/miki/maya/customerview/facade/AbstractFacade.class
+info/miki/maya/customerview/entities/Customer.class
+info/miki/maya/customerview/facade/CustomerFacade.class
